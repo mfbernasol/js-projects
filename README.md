@@ -1,2 +1,2 @@
 # Simple Form
-Simple form validator with vanilla JavaScript, HTML & CSS
+Simple front-end form validator with vanilla JavaScript, HTML & CSS
